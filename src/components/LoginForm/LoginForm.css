@@ -1,0 +1,75 @@
+body {
+    background-image: url('https://w0.peakpx.com/wallpaper/413/613/HD-wallpaper-green-abstract-background-material-design-luxurious-green-background-golden-lines-background.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.main_div {
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+}
+
+.form_box {
+    background-color: rgba(237, 243, 243, 0.356);
+    margin-top: 80px;
+    text-align: center;
+    border: 5px solid white;
+    border-radius: 15px;
+    height: 400px;
+    width: 330px;
+    box-shadow: 0px -1px 49px 26px rgba(0, 0, 0, 0.17);
+}
+
+.span_cls {
+    background-color: #a30bf0f3;
+}
+
+.text_box_main_div {
+    margin-left: 60px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    width: 220px;
+    border-bottom: 2px solid rgb(5, 5, 5);
+}
+
+.text_box_pass_div {
+    margin-left: 60px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    margin-top: 0;
+    width: 220px;
+    margin-bottom: 10px;
+    background-color: #46444700;
+    border-bottom: 2px solid rgb(5, 5, 5);
+}
+
+input {
+    width: 190px;
+    margin-top: 20px;
+    border: 0px solid #464447;
+    height: 17px;
+    text-align: center;
+    height: 20px;
+    background-color: #46444700;
+    font-size: 15.7px;
+    color: black;
+}
+
+textarea:focus,
+input:focus {
+    outline: none;
+}
+
+.span_cls {
+    background-color: rgba(240, 0, 0, 0);
+    margin-top: 25px;
+}
+
+.imgcls {
+    border: 2px solid black;
+    border-radius: 65px;
+}
